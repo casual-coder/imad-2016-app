@@ -1,7 +1,6 @@
 body {
     font-family: Monotype Corsiva;
-    background-color: lightgrey;
-    margin-top: 75px;
+    margin-top: 60px;
 }
 
 .center {
@@ -22,11 +21,10 @@ body {
 }
 
 .container{
-                max-width: 800px;
-                margin: 0 auto;
-                color: #464343;
-                font-family: sans-serif;
-                padding-top: 60px;
-                padding-left: 20px;
-                padding-right: 20px;
-            }
+    max-width : 800px;
+    margin : 0 auto;
+    font-family : sans-serif;
+    color : #4a4a4a;
+    padding-left : 20px;
+    padding-right : 20px;
+}
