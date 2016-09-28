@@ -23,3 +23,19 @@ button.onclick = function () {
     request.open('GET', 'http://casual-coder.imad.hasura-app.io/counter', true);
     request.send(null);
 };
+
+var nameInput = document.getElementById('name');
+var name = nameInput.value;
+var submit = document.getElementById('submit_btn');
+submit.onclick = function () {
+  //Make a request to a server and send the name.
+  
+  //Capture a list of names and render it as a list
+  var names = ['name 1', 'name 2', 'name 3', 'name 4'];
+  var list = '';
+  for(i=0; i<names.length; i++) {
+      list += '<li>' + names[i] + '</li>';
+  }
+  var ul = document.getElementById('namelist');
+  ul.innerHTML = list;
+ };
