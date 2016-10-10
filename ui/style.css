@@ -85,14 +85,14 @@ a {
 .ravenclaw {
     height : 60px;
     width : 60px;
-    margin-left : 110px;
+    margin-left : 130px;
     border : 1px;
     border-radius : 31px;
     display : inline-block;
 }
 
 .hufflepuff {
-    height : 60px;
+    height : 40px;
     width : 60px;
     margin-left : 190px;
     border : 1px;
