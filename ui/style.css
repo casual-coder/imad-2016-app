@@ -78,6 +78,7 @@ a {
     width : 100px;
     border : 1px;
     border-radius : 51px;
+    display : inline-block;
 }
 
 .ravenclaw {
@@ -85,6 +86,7 @@ a {
     width : 100px;
     border : 1px;
     border-radius : 51px;
+    display : inline-block;
 }
 
 .hufflepuff {
@@ -92,6 +94,7 @@ a {
     width : 100px;
     border : 1px;
     border-radius : 51px;
+    display : inline-block;
 }
 
 .slytherin {
@@ -99,4 +102,5 @@ a {
     width : 100px;
     border : 1px;
     border-radius : 51px;
+    display : inline-block;
 }
