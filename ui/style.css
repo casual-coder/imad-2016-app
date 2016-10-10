@@ -59,15 +59,16 @@ a {
     border-radius : 5px;
     border-radius : 2px;
     text-align : center;
-    background-color : blue;
+    background-color : #add8e6;
+    display : inline-block;
 }
 
 .btn2 {
-    height : 50px;
-    width : 120px;
+    height : 20px;
+    width : 220px;
     border-radius : 5px;
     border-radius : 2px;
     text-align : center;
-    background-color: blue;
+    background-color: #add8e6;
 }
 
