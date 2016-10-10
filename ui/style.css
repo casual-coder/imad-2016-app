@@ -74,29 +74,29 @@ a {
 }
 
 #gryffindor {
-    height : 60px;
-    width : 60px;
+    height : 1000px;
+    width : 100px;
     border : 10px solid #333333;
-    border-radius : 40px;
+    border-radius : 60px;
 }
 
 #ravenclaw {
-    height : 60px;
-    width : 60px;
+    height : 1000px;
+    width : 100px;
     border : 10px solid #333333;
-    border-radius : 40px;
+    border-radius : 60px;
 }
 
 #hufflepuff {
-    height : 60px;
-    width : 60px;
+    height : 100px;
+    width : 100px;
     border : 10px solid #333333;
-    border-radius : 40px;
+    border-radius : 60px;
 }
 
 #slytherin {
-    height : 60px;
-    width : 60px;
+    height : 100px;
+    width : 100px;
     border : 10px solid #333333;
-    border-radius : 40px;
+    border-radius : 60px;
 }
