@@ -1,6 +1,7 @@
 body {
     font-family: Monotype Corsiva;
     margin-top: 60px;
+    background-image : url("http://wallpapercave.com/wp/soTkz0F.jpg");
 }
 
 .center {
@@ -27,4 +28,12 @@ body {
     color : #4a4a4a;
     padding-left : 20px;
     padding-right : 20px;
+}
+
+h1 {
+    font-family : Century Gothic;
+}
+
+h3 {
+    font-family : Monotype Corsiva;
 }
