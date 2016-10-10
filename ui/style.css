@@ -50,12 +50,12 @@ h3 {
 a {
     text-decoration : none;
     color : white;
-    font-size : 20px;
+    font-size : 15px;
 } 
 
 .btn1 {
-    height : 50px;
-    width : 120px;
+    height : 30px;
+    width : 100px;
     border-radius : 5px;
     border-radius : 2px;
     text-align : center;
@@ -65,10 +65,11 @@ a {
 
 .btn2 {
     height : 20px;
-    width : 220px;
+    width : 100px;
     border-radius : 5px;
     border-radius : 2px;
     text-align : center;
     background-color: #add8e6;
+    display : inline-block;
 }
 
