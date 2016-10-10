@@ -76,6 +76,7 @@ a {
 .gryffindor {
     height : 100px;
     width : 100px;
+    margin-left : 5px;
     border : 1px;
     border-radius : 51px;
     display : inline-block;
@@ -84,6 +85,7 @@ a {
 .ravenclaw {
     height : 100px;
     width : 100px;
+    margin-left : 120px;
     border : 1px;
     border-radius : 51px;
     display : inline-block;
@@ -92,6 +94,7 @@ a {
 .hufflepuff {
     height : 100px;
     width : 100px;
+    margin-left : 240px;
     border : 1px;
     border-radius : 51px;
     display : inline-block;
@@ -100,6 +103,7 @@ a {
 .slytherin {
     height : 100px;
     width : 100px;
+    margin-left : 350px;
     border : 1px;
     border-radius : 51px;
     display : inline-block;
