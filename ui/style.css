@@ -79,3 +79,24 @@ a {
     border : 10px solid #333333;
     border-radius : 40px;
 }
+
+#ravenclaw {
+    height : 60px;
+    width : 60px;
+    border : 10px solid #333333;
+    border-radius : 40px;
+}
+
+#hufflepuff {
+    height : 60px;
+    width : 60px;
+    border : 10px solid #333333;
+    border-radius : 40px;
+}
+
+#slytherin {
+    height : 60px;
+    width : 60px;
+    border : 10px solid #333333;
+    border-radius : 40px;
+}
