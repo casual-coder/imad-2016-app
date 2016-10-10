@@ -73,3 +73,10 @@ a {
     display : inline-block;
 }
 
+# gryffindor {
+    height : 60px;
+    width : 60px;
+    border : 10px solid #333333;
+    border-radius : 40px;
+    border-radius : ;
+}
