@@ -110,7 +110,8 @@ a {
     display : inline-block;
 }
 
-p h1 {
+h2 {
     text-align : center;
     margin-top : 150px;
+    font-family : Century Gothic;
 }
