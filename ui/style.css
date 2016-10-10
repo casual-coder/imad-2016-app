@@ -85,7 +85,7 @@ a {
 .ravenclaw {
     height : 60px;
     width : 60px;
-    margin-left : 100px;
+    margin-left : 110px;
     border : 1px;
     border-radius : 31px;
     display : inline-block;
@@ -94,9 +94,9 @@ a {
 .hufflepuff {
     height : 60px;
     width : 60px;
-    margin-left : 180px;
+    margin-left : 190px;
     border : 1px;
-    border-radius : 31px;
+    border-radius : 50%;
     display : inline-block;
 }
 
