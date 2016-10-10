@@ -43,22 +43,31 @@ h3 {
 }
 
 .footer {
-    margin-top : 350px;
+    margin-top : 300px;
     text-align : center;
 }
 
 a {
     text-decoration : none;
-    color : #ccoooo;
+    color : white;
     font-size : 20px;
 } 
 
-.btn {
+.btn1 {
     height : 50px;
     width : 120px;
-    border-style : dashed;
     border-radius : 5px;
     border-radius : 2px;
     text-align : center;
+    background-color : blue;
+}
+
+.btn2 {
+    height : 50px;
+    width : 120px;
+    border-radius : 5px;
+    border-radius : 2px;
+    text-align : center;
+    background-color: blue;
 }
 
