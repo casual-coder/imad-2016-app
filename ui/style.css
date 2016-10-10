@@ -1,16 +1,18 @@
 body {
     font-family: Monotype Corsiva;
     margin-top: 60px;
-    background-image : url("http://wallpapercave.com/wp/soTkz0F.jpg");
+    background-image : url("http://www.spyderonlines.com/images/wallpapers/harry-potter-background/harry-potter-background-18.jpg");
 }
 
 .center {
     text-align: center;
+    border : 10px;
+    border-radius : 50%;
 }
 
 .text-big {
-    font-size: 300%;
-    color : green ;
+    font-size : 300%;
+    color : green;
 }
 
 .bold {
@@ -32,8 +34,10 @@ body {
 
 h1 {
     font-family : Century Gothic;
+    color : black;
 }
 
 h3 {
     font-family : Monotype Corsiva;
+    color : black;
 }
