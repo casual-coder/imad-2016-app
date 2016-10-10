@@ -54,12 +54,12 @@ a {
 } 
 
 .btn1 {
-    height : 30px;
-    width : 100px;
+    height : 40px;
+    width : 200px;
     border-radius : 5px;
     border-radius : 2px;
     text-align : center;
-    background-color : #add8e6;
+    background-color : blue;
     display : inline-block;
 }
 
@@ -69,7 +69,7 @@ a {
     border-radius : 5px;
     border-radius : 2px;
     text-align : center;
-    background-color: #add8e6;
+    background-color: blue;
     display : inline-block;
 }
 
