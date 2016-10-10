@@ -109,3 +109,8 @@ a {
     border-radius : 31px;
     display : inline-block;
 }
+
+p h1 {
+    text-align : center;
+    margin-top : 150px;
+}
