@@ -33,16 +33,12 @@ var articles = {
     },
     'article-two' : {
         title : 'Article Two | Rachna Ramesh',
-        heading : 'Article Two',
-        date : 'Sep 25, 2016',
         content : ` 
                     <p>
                         This is the content for my second article. 
                     </p>`
         },
     'article-three' : {title : 'Article Three | Rachna Ramesh',
-        heading : 'Article Three',
-        date : 'Sep 27, 2016',
         content : ` 
                     <p>
                         This is the content for my third article. 
@@ -52,8 +48,6 @@ var articles = {
     
 function createTemplate (data) {
     var title = data.title;
-    var heading = data.heading;
-    var date = data.date;
     var content = data.content;
     var htmlTemplate = `
         <html>
@@ -70,12 +64,6 @@ function createTemplate (data) {
                         <a href = "/">Home</a>
                     </div>
                     <hr/>
-                    <h3>
-                        ${heading}
-                    </h3>
-                    <div>
-                        ${date}
-                    </div>
                     <div>
                         ${content}
                     </div>
