@@ -32,7 +32,7 @@ var articles = {
                     </p>
                 </div>
                 <div style="float:right; width:50% ">
-                    <p id="demo"></p>
+                    <p id="demo">
                         <script>
                             var myArray = ['GRYFFINDOR', 'HUFFLEPUFF', 'RAVENCLAW', 'SLYTHERIN'];   
                             var rand = Math.floor(Math.random() * myArray.length);
