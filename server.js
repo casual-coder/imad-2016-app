@@ -42,7 +42,7 @@ var articles = {
                             }
                         </script>
                         <button onClick="random()">
-                            <h2>Find your House!<h2>
+                            <h3>Find your House!<h3>
                         </button>
                     </p>
                 </div>`
