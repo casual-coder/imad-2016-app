@@ -120,6 +120,8 @@ h2 {
 #demo {
     display:inline-block;
     font-family : Century Gothic;
+    font-weight : bold;
+    font-size : 250%;
     color: black ;
     margin-top: 300px;
     margin-left: 100px;
