@@ -45,8 +45,7 @@ var articles = {
                             Find your House!
                         </button>
                     </p>
-                </div>
-                <hr/>`
+                </div>`
                    
     },
     'article-two' : {
