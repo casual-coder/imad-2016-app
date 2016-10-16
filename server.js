@@ -10,16 +10,13 @@ var articles = {
         title : 'Article One | Rachna Ramesh',
         heading : 'Article One',
         date : 'Sep 20, 2016',
-        content : ` 
-                    <p>
-                        This is the content for my first article. This is the content for my first article. This is the content for my first article. This is the content for my first article. This is the content for my first article. This is the content for my first article.
-                    </p>
-                    <p>
-                        This is the content for my first article. This is the content for my first article. This is the content for my first article. This is the content for my first article. This is the content for my first article. This is the content for my first article.
-                    </p>
-                    <p>
-                        This is the content for my first article. This is the content for my first article. This is the content for my first article. This is the content for my first article. This is the content for my first article. This is the content for my first article.
-                    </p>`
+        content : `
+                <p>
+                    <h1>GRYFFINDOR!</h1>
+                    <h3>Where Dwell the Brave at Heart<h3>
+                    <h3>Their daring nerve and chivalry set Gryffindors apart!<h3>
+                </p>`
+                   
     },
     'article-two' : {
         title : 'Article Two | Rachna Ramesh',
