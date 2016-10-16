@@ -9,26 +9,28 @@ var articles = {
     'article-one' : {
         title : 'The Houses Of Hogwarts | Rachna Ramesh',
         content : `
-                <p>
-                    <h1>GRYFFINDOR!</h1>
-                    <h2>Where Dwell the Brave at Heart.<h3>
-                    <h2>Their daring nerve and chivalry set Gryffindors apart!<h3>
-                </p>
-                <p>
-                    <h1>HUFFLEPUFF!<h1>
-                    <h2>Where they are Just and Loyal.<h2>
-                    <h2>Those patient hufflepuffs are true and unafraid of toil!<h2>
-                </p>
-                <p>
-                    <h1>RAVENCLAW!<h1>
-                    <h2>Wit Beyond Measure is Man's Greatest Treasure.<h2>
-                    <h2>Where those of wit and learning will always find their kind!<h2>
-                </p>
-                <p>
-                    <h1>SLYTHERIN!<h1>
-                    <h2>Is where you'll make your real friends.<h2>
-                    <h2>Those cunning folks use any means to achieve their ends!<h2>
-                </p>`
+                <div class = "Houses">
+                    <p>
+                        <h1>GRYFFINDOR!</h1>
+                        <h3>Where Dwell the Brave at Heart.<h3>
+                        <h3>Their daring nerve and chivalry set Gryffindors apart!<h3>
+                    </p>
+                    <p>
+                        <h1>HUFFLEPUFF!<h1>
+                        <h3>Where they are Just and Loyal.<h3>
+                        <h3>Those patient hufflepuffs are true and unafraid of toil!<h3>
+                    </p>
+                    <p>
+                        <h1>RAVENCLAW!<h1>
+                        <h3>Wit Beyond Measure is Man's Greatest Treasure.<h3>
+                        <h3>Where those of wit and learning will always find their kind!<h3>
+                    </p>
+                    <p>
+                        <h1>SLYTHERIN!<h1>
+                        <h3>Is where you'll make your real friends.<h3>
+                        <h3>Those cunning folks use any means to achieve their ends!<h3>
+                    </p>
+                </div>`
                    
     },
     'article-two' : {
