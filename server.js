@@ -9,7 +9,7 @@ var articles = {
     'article-one' : {
         title : 'The Houses Of Hogwarts | Rachna Ramesh',
         content : `
-                <div style="float:left; width:50%;">
+                <div style="float:left; width:60%;">
                     <p id = "gry">
                         <h1>GRYFFINDOR!</h1>
                         <h3>Where Dwell the Brave at Heart.<h3>
@@ -31,7 +31,7 @@ var articles = {
                         <h3>Those cunning folks use any means to achieve their ends!<h3>
                     </p>
                 </div>
-                <div style="float:right; width:50% ">
+                <div style="float:right; width:40% ">
                     <p id="demo">
                         <script>
                             var myArray = ['GRYFFINDOR', 'HUFFLEPUFF', 'RAVENCLAW', 'SLYTHERIN'];   
