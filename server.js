@@ -30,6 +30,7 @@ var articles = {
                         <h3>Is where you'll make your real friends.<h3>
                         <h3>Those cunning folks use any means to achieve their ends!<h3>
                     </p>
+                    <hr/>
                 </div>`
                    
     },
