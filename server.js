@@ -21,7 +21,7 @@ var articles = {
                         <h3>Those patient hufflepuffs are true and unafraid of toil!<h3>
                     </p>
                     <p id = "rav">
-                        <h1 style = "color : dark blue">RAVENCLAW!<h1>
+                        <h1 style = "color : blue">RAVENCLAW!<h1>
                         <h3>Wit Beyond Measure is Man's Greatest Treasure.<h3>
                         <h3>Where those of wit and learning will always find their kind!<h3>
                     </p>
