@@ -9,7 +9,8 @@ var articles = {
     'article-one' : {
         title : 'The Houses Of Hogwarts | Rachna Ramesh',
         content : `
-                    <p>
+                <div style="float:left; width:20%;">
+                    <p id = "gry">
                         <h1>GRYFFINDOR!</h1>
                         <h3>Where Dwell the Brave at Heart.<h3>
                         <h3>Their daring nerve and chivalry set Gryffindors apart!<h3>
@@ -19,7 +20,7 @@ var articles = {
                         <h3>Where they are Just and Loyal.<h3>
                         <h3>Those patient hufflepuffs are true and unafraid of toil!<h3>
                     </p>
-                    <p>
+                    <p id = "rav">
                         <h1>RAVENCLAW!<h1>
                         <h3>Wit Beyond Measure is Man's Greatest Treasure.<h3>
                         <h3>Where those of wit and learning will always find their kind!<h3>
@@ -29,9 +30,11 @@ var articles = {
                         <h3>Is where you'll make your real friends.<h3>
                         <h3>Those cunning folks use any means to achieve their ends!<h3>
                     </p>
+                </div>
+                <div style="float:right; width:80% ">
                     <p id="demo"></p>
                         <script>
-                            var myArray = ['Gryffindor', 'Hufflepuff', 'Ravenclaw', 'Slytherin'];   
+                            var myArray = ['GRYFFINDOR', 'HUFFLEPUFF', 'RAVENCLAW', 'SLYTHERIN'];   
                             var rand = Math.floor(Math.random() * myArray.length);
                             var concat = myArray[rand];
                             function random() {
@@ -39,9 +42,11 @@ var articles = {
                             }
                         </script>
                         <button onClick="random()">
-                            Working Random Array generator
+                            Find your House!
                         </button>
-                    <hr/>`
+                    </p>
+                </div>
+                <hr/>`
                    
     },
     'article-two' : {
