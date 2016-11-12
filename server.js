@@ -2,7 +2,7 @@ var express = require('express');
 var morgan = require('morgan');
 var path = require('path');
 var Pool = require('pg').Pool;
-
+var crypto = require('crypto');
 var config = {
     user : 'casual-coder',
     database : 'casual-coder',
@@ -147,6 +147,17 @@ app.get('/articles/:articleName', function(req, res) {
         }
     }); 
    
+});
+
+function hash(input, salt) {
+    var hashed = crypto.pbkdf2Sync(input, salt, 512, 'sha512');  
+    return hashed.toString('hex');
+} 
+
+
+app.get('/hash/:input', function(req, res) {
+    var hashedString = hash(req.params.input, 'some-random-string');
+    res.send(hashesString);
 });
 
 
