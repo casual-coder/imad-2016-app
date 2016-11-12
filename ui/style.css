@@ -80,42 +80,7 @@ a {
     display : inline-block;
 }
 
-.gryffindor {
-    margin-top : 135px;
-    height : 60px;
-    width : 60px;
-    margin-left : 1px;
-    border : 1px;
-    border-radius : 31px;
-    display : inline-block;
-}
 
-.ravenclaw {
-    height : 60px;
-    width : 60px;
-    margin-left : 150px;
-    border : 1px;
-    border-radius : 31px;
-    display : inline-block;
-}
-
-.hufflepuff {
-    height : 40px;
-    width : 60px;
-    margin-left : 180px;
-    border : 1px;
-    border-radius : 50%;
-    display : inline-block;
-}
-
-.slytherin {
-    height : 60px;
-    width : 60px;
-    margin-left : 190px;
-    border : 1px;
-    border-radius : 31px;
-    display : inline-block;
-}
 
 h2 {
     text-align : center;
@@ -139,10 +104,10 @@ h2 {
     height: 35px;
     font-size: 16px;
     font-family: Tahoma, Geneva, sans-serif;
-    font-weight: bold;
+    color : white;
     text-align: center;
     text-shadow: 3px 2px 3px #333333;
-    background-color: #8AD9FF;
+    
     border-radius: 8px;
 }
 
@@ -159,11 +124,11 @@ padding: 20px;
 
 #menu a {
     text-decoration: none;
-    color: #00F;
+    
     padding: 8px 8px 8px 8px;
 }
 
 #menu a:hover {
     color: #F90;
-    background-color: #FFF;
+    
 }
