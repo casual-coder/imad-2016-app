@@ -8,8 +8,8 @@ body {
 }
 
 img {
-    max-width: 400px;
-    padding-top: 125px;
+    max-width: 450px;
+    padding-top: 20px;
     padding-right: 700px;
 }
 
@@ -55,7 +55,7 @@ h3 {
 }
 
 .footer {
-    margin-top : 500px;
+    margin-top : 400px;
     text-align : center;
 }
 
