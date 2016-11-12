@@ -13,8 +13,10 @@ img {
     padding-right: 700px;
 }
 
-
+.right {
+    padding-left : 15px;
 }
+
 
 .center {
     text-align: center;
