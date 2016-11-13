@@ -23,7 +23,7 @@ app.use(session({
 
 var articles = { 
     'article-one' : {
-        title : 'The Houses Of Hogwarts | Rachna Ramesh',
+        title : '',
         content : `
                 <div style="float:left; width:60%;">
                     <p id = "gry">
