@@ -62,7 +62,7 @@ h3 {
 
 a {
     text-decoration : none;
-    color : white;
+    color : black;
     font-size : 15px;
 } 
 
@@ -73,7 +73,7 @@ h2 {
     text-align :left;
     margin-top : 50px;
     font-family : Segoe Print;
-    color : black;
+    color : white;
 }
 
 #demo {
