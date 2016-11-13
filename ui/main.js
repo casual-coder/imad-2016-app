@@ -62,7 +62,7 @@ function loadLoginForm() {
             var password = document.getElementById('password').value;
             console.log(username);
             console.log(password);
-            request.open('POST', '/create-user', true);
+            request.open('POST', 'http://casual-coder.imad.hasura-app.io/create-user', true);
             request.setRequestHeader('Content-Type', 'application/json');
             request.send(JSON.stringify({username: username, password: password}));  
             register.value = 'Registering...';
@@ -90,5 +90,5 @@ function loadLoggedInUser (username) {
     var loginArea = document.getElementById('login_area');
     loginArea.innerHTML = `
         <h3> Hi <i>${username}</i></h3>
-        <a href="/logout">Logout</a>`;
+        <a href="http://casual-coder.imad.hasura-app.io/logout">Logout</a>`;
 }
