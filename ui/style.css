@@ -8,13 +8,13 @@ body {
 }
 
 img {
-    max-width: 425px;
+    max-width: 450px;
     padding-top: 20px;
     padding-right: 700px;
 }
 
 .right {
-    padding-left : 15px;
+    padding-left : 10px;
     padding-top : 20px;
 }
 
