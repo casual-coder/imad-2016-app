@@ -70,10 +70,10 @@ a {
 
 
 h2 {
-    text-align : center;
+    text-align :left;
     margin-top : 50px;
     font-family : Century Gothic;
-    color : black;
+    color : white;
 }
 
 #demo {
